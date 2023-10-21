@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\AbbyWeb.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\MislavLešin\\source\\repos\\Abby\\AbbyWeb\\wwwroot\\css\\bootswatch-cyborg.css",
+      "PackagePath": "staticwebassets\\css\\bootswatch-cyborg.css"
+    },
+    {
+      "Id": "C:\\Users\\MislavLešin\\source\\repos\\Abby\\AbbyWeb\\wwwroot\\css\\bootswatch-darkly.css",
+      "PackagePath": "staticwebassets\\css\\bootswatch-darkly.css"
+    },
+    {
       "Id": "C:\\Users\\MislavLešin\\source\\repos\\Abby\\AbbyWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
